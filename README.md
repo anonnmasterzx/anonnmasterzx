@@ -1,8 +1,7 @@
 
 
- **Lider de TI | Analista de Segurança | Red Team | Blue Team**    
-
 ## Sobre Mim  
+-  Lider de T.I (Infra/Sec)
 -  Analista em Segurança da Informação (Pentest, Hardening, SIEM).  
 -  Experiência em Red Team e Blue Team.  
 -  Gestão de infraestrutura com foco em alta disponibilidade.  
